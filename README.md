@@ -16,5 +16,5 @@ Step 4: Compile code
 	- g++ -O3 ch-light.cpp -o ch-light
 
 Step 5: Run code
-	- ./ch-light graphs/stgtregbz_ch.fmi graphs/stgtregbz.fmi
+	- ./ch-light stgtregbz_ch.fmi stgtregbz.fmi
 
